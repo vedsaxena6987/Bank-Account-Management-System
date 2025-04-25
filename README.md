@@ -67,7 +67,8 @@ java BankSystem
 
 ## 📷 Screenshots
 
-> (Insert terminal screenshots showing account creation, deposit, withdraw, and balance checks here!)
+> ![Bank System Screenshot](Output.png)
+
 
 ---
 
